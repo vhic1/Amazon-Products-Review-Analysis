@@ -79,7 +79,7 @@ A consolidated Excel dashboard was created with:
 ## 📦 Folder Structure
 
 ```
-📁 amazon-excel-analysis/
+📁 Amazon-Product-Review-Analysis/
 ├── Amazon Analysis.xlsx          # Transformed data, with the interactive dashboard and pivot tables
 ├── Amazon case study.xlsx          # 0riginal Dataset
 
@@ -96,11 +96,6 @@ A consolidated Excel dashboard was created with:
 - Some top-rated products are also among the most discounted — an opportunity for promoting value.
 
 ---
-
-## 🤝 Credits
-
-- Data sourced from a simulated Amazon product export.
-- Analysis, cleaning, and visualization by [Your Name].
 
 ---
 
