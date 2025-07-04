@@ -74,6 +74,12 @@ A consolidated Excel dashboard was created with:
 - Summary cards (e.g., Total Products, Total Revenue, Avg. Rating)
 - Trend analysis for discount vs. rating
 
+**Screen Grab of the Dashboard**
+
+[Amazon Dashboard](https://github.com/user-attachments/assets/15dcc281-1cb9-4dd3-8151-1986886ef040)
+
+
+
 ---
 
 ## 📦 Folder Structure
@@ -102,7 +108,7 @@ A consolidated Excel dashboard was created with:
 
 6.  **₹ 171.3 Bn** is the total potential revenue.
 
-7.  **>₹500**	have 1166 products, while **₹200-₹500** have	151 products, and **<₹200** have	34 products.
+7.  **> ₹ 500**	have 1166 products, while **₹ 200- ₹ 500** have	151 products, and **< ₹ 200** have	34 products.
 
 8.  **328 products** have fewer than 1000 reviews.
 
