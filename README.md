@@ -88,17 +88,32 @@ A consolidated Excel dashboard was created with:
 
 ---
 
-## ✅ Key Insights
+## ✅ Key Insights and Answers
 
-- Products with higher discounts tend to maintain favorable ratings.
-- A few categories (like Electronics and Appliances) dominate in both reviews and potential revenue.
-- Many products have over 1,000 reviews, suggesting a strong base for data-driven decisions.
-- Some top-rated products are also among the most discounted — an opportunity for promoting value.
+1. Total average discount % by product category is **48%**.
 
+2. **1351 unique products** are listed in all the categories.
+
+3. Total number of reviews in all the category is **26.8 million**.
+
+4. Average actual price vs Discounted price by category is **₹ 5,445 vs ₹ 3,125**.
+
+5. **751 products** have a discount of 50% or more.
+
+6.  **₹ 171.3 Bn** is the total potential revenue.
+
+7.  **>₹500**	have 1166 products, while **₹200-₹500** have	151 products, and **<₹200** have	34 products.
+
+8.  **328 products** have fewer than 1000 reviews.
+
+9.  **HomeImprovement & Computers&Accessories** are among the top categories with products that have the highest discounts.
+ 
 ---
 
----
+## 👤 About Me
 
-## 📬 Contact
+- **Victor Adesoye**
+- DSA Data Analyst Student
+- 📧 victoradesoye@gmail.com
+- 🌍 [LinkedIn](https://linkedin.com/in/victor-adesoye)
 
-Have questions or want to collaborate? Reach out at [your-email@example.com] or connect on [LinkedIn](https://linkedin.com/in/your-profile).
