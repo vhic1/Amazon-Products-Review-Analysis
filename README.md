@@ -72,7 +72,6 @@ A consolidated Excel dashboard was created with:
 - Category filters
 - Interactive visuals
 - Summary cards (e.g., Total Products, Total Revenue, Avg. Rating)
-- Trend analysis for discount vs. rating
 
 **Screen Grab of the Dashboard**
 
